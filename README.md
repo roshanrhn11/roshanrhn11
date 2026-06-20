@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Pathmanathan Niroshan</h1>
+<h1 align="center">Hi there.. , I'm Pathmanathan Niroshan</h1>
 <p align="center">
   <b>🎓 ICT Undergraduate at South Eastern University of Sri Lanka</b><br>
   <b>💻 Full-Stack Developer | Cloud Enthusiast | AI & Machine Learning Explorer</b>
