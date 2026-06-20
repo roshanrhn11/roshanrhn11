@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dldmQwaTNxMzRyOHoxdmsza2ludTVvd2VjM3A5eXhrMTRwZG1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aR3DGgft5YwG4/giphy.gif" width="100%" max-width="600" alt="Neon Blue Tech Circuit Board" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dldmQwaTNxMzRyOHoxdmsza2ludTVvd2VjM3A5eXhrMTRwZG1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aR3DGgft5YwG4/giphy.gif" width="100%" max-width="600" style="max-width:600px;" alt="Neon Blue Tech Circuit Board" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="65%" valign="top">
       Dedicated and results-driven <b>ICT Undergraduate</b> specializing in Web, Mobile, and Cloud systems. I love architecting clean, scalable full-stack web solutions, building modern mobile apps, and deploying secure cloud infrastructure.
@@ -30,8 +30,8 @@
         <li>⚡ <b>Fun Fact:</b> I turn coffee into clean, scalable architecture and bugs into fixed features!</li>
       </ul>
     </td>
-    <td width="35%" valign="top" align="center">
-      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab12ede281/1518664152733-4R2DOPHDCDCV16V4UGM1/coding-gif.gif" width="100%" alt="Developer Coding Animation"/>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://github.com/roshanrhn11/roshanrhn11/raw/main/developer.gif" onerror="this.src='https://octodex.github.com/images/codercat.jpg'" width="200" alt="Developer Coding"/>
     </td>
   </tr>
 </table>
