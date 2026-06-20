@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="circuit.gif" width="100%" max-width="600" style="max-width:600px;" alt="Neon Blue Tech Circuit Board" />
+  <img src="circuit1.gif" width="100%" max-width="600" style="max-width:600px;" alt="Neon Blue Tech Circuit Board" />
 </p>
 
 ---
