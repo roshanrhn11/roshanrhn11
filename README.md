@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI0cnF6Z3F5N3ppN216N3V5amg1cXA3eXp5bXoxY2p0Z3EwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="450" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4djd2MGF3ZHF2MmYwOXNleDBycjE1aHcyZ2FmcWN0ejc1cGlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j4e76U2nuz0mBkhSms/giphy.gif" width="550" alt="Tech Coding Setup" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
       <ul>
         <li>🔭 <b>Currently working on:</b> A robust <b>Cloud-Based Vehicle Rental Management System</b> (Laravel) featuring dynamic Admin & User CRUD workflows.</li>
         <li>🌱 <b>Learning & Improving:</b> Advanced React & Next.js Routing, Docker containers, AWS Services, and Generative AI.</li>
-        <li>#️⃣ <b>Open to collaborate on:</b> Open-source projects, innovative mobile apps, and Cloud/DevOps pipelines.</li>
+        <li>🤝 <b>Open to collaborate on:</b> Open-source projects, innovative mobile apps, and Cloud/DevOps pipelines.</li>
         <li>⚡ <b>Fun Fact:</b> I turn coffee into clean, scalable architecture and bugs into fixed features!</li>
       </ul>
     </td>
