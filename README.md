@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4djd2MGF3ZHF2MmYwOXNleDBycjE1aHcyZ2FmcWN0ejc1cGlzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j4e76U2nuz0mBkhSms/giphy.gif" width="550" alt="Tech Coding Setup" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dldmQwaTNxMzRyOHoxdmsza2ludTVvd2VjM3A5eXhrMTRwZG1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aR3DGgft5YwG4/giphy.gif" width="100%" max-width="600" alt="Neon Blue Tech Circuit Board" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 <table align="center">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       Dedicated and results-driven <b>ICT Undergraduate</b> specializing in Web, Mobile, and Cloud systems. I love architecting clean, scalable full-stack web solutions, building modern mobile apps, and deploying secure cloud infrastructure.
       <br><br>
       <ul>
@@ -30,8 +30,8 @@
         <li>⚡ <b>Fun Fact:</b> I turn coffee into clean, scalable architecture and bugs into fixed features!</li>
       </ul>
     </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-web-development-illustration-download-in-svg-png-gif-file-formats--developer-software-engineer-pack-network-illustrations-5381881.png" width="220" alt="Developer Illustration"/>
+    <td width="35%" valign="top" align="center">
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab12ede281/1518664152733-4R2DOPHDCDCV16V4UGM1/coding-gif.gif" width="100%" alt="Developer Coding Animation"/>
     </td>
   </tr>
 </table>
