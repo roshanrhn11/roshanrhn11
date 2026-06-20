@@ -1,5 +1,4 @@
-# Hi there 👋, I'm Pathmanathan Niroshan (Roshan)
-
+# Hi there 👋, I'm Pathmanathan Niroshan 
 ### 🎓 ICT Undergraduate at South Eastern University of Sri Lanka
 ### 💻 Full-Stack Developer | Cloud Enthusiast | AI & ML Explorer
 
@@ -83,10 +82,10 @@ Dedicated and results-driven **ICT Undergraduate** specializing in Web, Mobile, 
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="linkedin.com/in/niroshan-pathmanathan-2057123bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_MEDIUM_URL" target="_blank">
+  <a href="[YOUR_MEDIUM_URL](https://medium.com/@roshanrhn11)" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
