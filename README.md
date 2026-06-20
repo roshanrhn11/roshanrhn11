@@ -31,7 +31,7 @@
       </ul>
     </td>
   <td width="35%" valign="middle" align="center">
-  <img src="developer.gif" width="200" alt="Developer Coding"/>
+  <img src="developer1.gif" width="200" alt="Developer Coding"/>
 </td>
   </tr>
 </table>
