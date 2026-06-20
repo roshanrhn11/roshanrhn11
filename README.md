@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dldmQwaTNxMzRyOHoxdmsza2ludTVvd2VjM3A5eXhrMTRwZG1xciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aR3DGgft5YwG4/giphy.gif" width="100%" max-width="600" style="max-width:600px;" alt="Neon Blue Tech Circuit Board" />
+  <img src="circuit.gif" width="100%" max-width="600" style="max-width:600px;" alt="Neon Blue Tech Circuit Board" />
 </p>
 
 ---
@@ -30,9 +30,9 @@
         <li>⚡ <b>Fun Fact:</b> I turn coffee into clean, scalable architecture and bugs into fixed features!</li>
       </ul>
     </td>
-    <td width="35%" valign="middle" align="center">
-      <img src="https://github.com/roshanrhn11/roshanrhn11/raw/main/developer.gif" onerror="this.src='https://octodex.github.com/images/codercat.jpg'" width="200" alt="Developer Coding"/>
-    </td>
+  <td width="35%" valign="middle" align="center">
+  <img src="developer.gif" width="200" alt="Developer Coding"/>
+</td>
   </tr>
 </table>
 
